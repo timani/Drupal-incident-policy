@@ -1,1 +1,1 @@
-# Drupal-incident-policy
+# Incident Policy template
